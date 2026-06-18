@@ -1,0 +1,7 @@
+Copyright (C) 2026 [RC]. Toate drepturile rezervate.
+
+Acest software și documentația asociată sunt proprietatea intelectuală exclusivă a autorului. 
+Sunt STRICT INTERZISE: copierea, modificarea, distribuirea, publicarea sau utilizarea acestui cod 
+în scopuri comerciale sau private fără acordul scris prealabil al deținătorului drepturilor de autor.
+
+Orice utilizare neautorizată va fi sancționată conform legilor internaționale privind proprietatea intelectuală.
