@@ -1,0 +1,16 @@
+INTELLECTUAL PROPERTY AND COPYRIGHT NOTICE
+Copyright (C) 2026 R.C. All Rights Reserved.
+
+This repository, including all source code, mathematical algorithms, architecture designs, 
+documentation, and associated files (collectively referred to as "The Software"), is the 
+exclusive intellectual property of the author (R.C.).
+
+Strictly prohibited actions without prior explicit written consent from the author:
+* Copying, cloning, or duplicating any part of this repository.
+* Modifying, adapting, or reverse-engineering the core mathematical logic.
+* Distributing, publishing, or hosting the code publicly or privately.
+* Using The Software for commercial, industrial, research, or training purposes.
+
+Any unauthorized use, plagiarism, or corporate misappropriation will result in immediate 
+legal action under the United States Copyright Act (Title 17, U.S.C.), the DMCA, and the 
+European Union Intellectual Property Laws.
